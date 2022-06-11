@@ -1,9 +1,10 @@
 # Python-Nympy
 
-
-# NumPy (Numeric Python) is a Python package used for building multi dimensional arrays and performing various operations
+# NumPy(Numeric Python) is a Python package used for building multi dimensional arrays and metrices additional with performing various operations on them
 
 #For Installation: pip3 install numpy
+
+
 
 import numpy as np
 
